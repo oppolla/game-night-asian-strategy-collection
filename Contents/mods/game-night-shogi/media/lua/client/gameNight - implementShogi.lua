@@ -53,7 +53,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiBoard",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiFuhyo1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiFuhyoPromoted1",
 			noRotate=true,
@@ -64,7 +63,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiFuhyo1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiFuhyo2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiFuhyoPromoted2",
 			noRotate=true,
@@ -75,7 +73,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiFuhyo2",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiHisha1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiHishaPromoted1",
 			noRotate=true,
@@ -86,7 +83,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiHisha1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiHisha2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiHishaPromoted2",
 			noRotate=true,
@@ -97,7 +93,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiHisha2",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKakugyo1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiKakugyoPromoted1",
 			noRotate=true,
@@ -108,7 +103,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKakugyo1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKakugyo2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiKakugyoPromoted2",
 			noRotate=true,
@@ -119,7 +113,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKakugyo2",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKeima1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiKeimaPromoted1",
 			noRotate=true,
@@ -130,7 +123,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKeima1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKeima2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiKeimaPromoted2",
 			noRotate=true,
@@ -141,7 +133,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKeima2",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKinsho1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="MedBlank1",
 			noRotate=true,
@@ -152,7 +143,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKinsho1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKinsho2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="MedBlank2",
 			noRotate=true,
@@ -163,7 +153,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKinsho2",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiGinsho1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiGinshoPromoted1",
 			noRotate=true,
@@ -174,7 +163,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiGinsho1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiGinsho2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiGinshoPromoted2",
 			noRotate=true,
@@ -185,7 +173,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiGinsho2",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKyosha1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiKyoshaPromoted1",
 			noRotate=true,
@@ -196,7 +183,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKyosha1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiKyosha2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="ShogiKyoshaPromoted2",
 			noRotate=true,
@@ -207,7 +193,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKyosha2",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiOsho1",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="LargeBlank1",
 			noRotate=true,
@@ -218,7 +203,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiOsho1",
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiOsho2",
 		{
-			weight = 0.003,
 			actions = { flipPiece=true },
 			altState="LargeBlank2",
 			noRotate=true,

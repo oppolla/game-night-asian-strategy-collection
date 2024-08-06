@@ -37,7 +37,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.XianqiBoard",
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackAdvisor",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
@@ -45,91 +44,78 @@ gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackAdvisor",
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackElephant",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackCannon",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackHorse",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackGeneral",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackSoldier",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBlackChariot",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiRedAdvisor",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiRedElephant",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiRedCannon",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiRedGeneral",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiRedHorse",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiRedSoldier",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiRedChariot",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 6, rgb = {0.9, 0.9, 0.9}},
 		}
 )

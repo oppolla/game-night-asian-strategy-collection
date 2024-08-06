@@ -36,98 +36,84 @@ gamePieceAndBoardHandler.registerSpecial("Base.JanggiBoard",
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiRedGeneral",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBlueGeneral",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiRedHorse",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBlueHorse",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiRedElephant",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBlueElephant",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiRedChariot",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBlueChariot",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiRedCannon",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBlueCannon",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiRedSoldier",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBlueSoldier",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiRedGuard",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBlueGuard",
 		{
-			weight = 0.003,
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
