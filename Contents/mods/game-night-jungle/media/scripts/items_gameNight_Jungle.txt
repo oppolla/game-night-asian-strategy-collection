@@ -1,6 +1,6 @@
 module Base
 {
-   	 item BlueCat
+   	 item JungleBlueCat
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -10,7 +10,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item BlueDog
+	 item JungleBlueDog
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -20,7 +20,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item BlueElephant
+	 item JungleBlueElephant
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -30,7 +30,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item BlueLeopard
+	 item JungleBlueLeopard
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -40,7 +40,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item BlueRat
+	 item JungleBlueRat
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -50,7 +50,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item BlueTiger
+	 item JungleBlueTiger
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -60,7 +60,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item BlueWolf
+	 item JungleBlueWolf
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -70,7 +70,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedCat
+	 item JungleRedCat
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -80,7 +80,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedDog
+	 item JungleRedDog
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -90,7 +90,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedElephant
+	 item JungleRedElephant
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -100,7 +100,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedLeopard
+	 item JungleRedLeopard
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -110,7 +110,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedLion
+	 item JungleRedLion
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -120,7 +120,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedRat
+	 item JungleRedRat
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -130,7 +130,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedTiger
+	 item JungleRedTiger
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -140,7 +140,7 @@ module Base
         WorldStaticModel = Jungle_Piece,
     }
 
-	 item RedWolf
+	 item JungleRedWolf
     {
         DisplayCategory = GamePiece, 
         Weight = 0.01, 
@@ -158,7 +158,7 @@ module Base
        Type = Container, 
        Capacity = 1,
        PutInSound   =   PutItemInBag,
-       DisplayName = Go Board, 
+       DisplayName = Jungle Board, 
        Icon = OutOfPlayTextures/JungleBoard, 
        WorldStaticModel = Jungle_Board,
        gameNight_boxEnough = TRUE,
@@ -172,7 +172,7 @@ module Base
          Weight = 0.1, 
          Type = Normal,
          Capacity = 1,
-         DisplayName = Go Board (Sealed), 
+         DisplayName = Jungle Set (Sealed), 
          Icon = OutOfPlayTextures/JungleBoard, 
          WorldStaticModel = Jungle_Board,
         }

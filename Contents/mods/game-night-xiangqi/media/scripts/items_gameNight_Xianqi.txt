@@ -150,7 +150,7 @@ module Base
        Type = Container, 
        Capacity = 1,
        PutInSound   =   PutItemInBag,
-       DisplayName = Go Board, 
+       DisplayName = Xianqi Board, 
        Icon = OutOfPlayTextures/XianqiBoard, 
        WorldStaticModel = Xianqi_Board,
        gameNight_boxEnough = TRUE,

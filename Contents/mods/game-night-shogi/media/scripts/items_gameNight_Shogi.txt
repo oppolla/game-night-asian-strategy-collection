@@ -172,7 +172,7 @@ module Base
        Capacity = 1,
        PutInSound   =   PutItemInBag,
        DisplayName = Shogi Board, 
-       Icon = OutOfPlayTextures/GoBoard, 
+       Icon = OutOfPlayTextures/ShogiBoardBoard, 
        WorldStaticModel = Shogi_Board,
        gameNight_boxEnough = TRUE,
 	}
