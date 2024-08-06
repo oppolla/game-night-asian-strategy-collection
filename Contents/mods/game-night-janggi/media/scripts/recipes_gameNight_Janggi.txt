@@ -1,0 +1,4 @@
+module Base
+{
+    recipe Unseal Box { JanggiBoard_sealed, Result:JanggiBoard, CanBeDoneFromFloor:true, OnCreate:Recipe.GameNight.Unbox, Time:50.0, }
+}

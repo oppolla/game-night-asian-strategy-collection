@@ -1,0 +1,5 @@
+name=Game Night - Janggi
+id=gamenight_janggi
+description=Play the ancient game of Janggi in Project Zomboid.
+poster=poster.png
+require=gamenight

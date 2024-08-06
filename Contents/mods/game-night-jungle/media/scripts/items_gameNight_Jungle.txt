@@ -1,0 +1,180 @@
+module Base
+{
+   	 item BlueCat
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Cat,
+        Icon = OutOfPlayTextures/BlueCat_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item BlueDog
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Dog,
+        Icon = OutOfPlayTextures/BlueDog_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item BlueElephant
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Elephant,
+        Icon = OutOfPlayTextures/BlueElephant_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item BlueLeopard
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Leopard,
+        Icon = OutOfPlayTextures/BlueLeopard_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item BlueRat
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Rat,
+        Icon = OutOfPlayTextures/BlueRat_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item BlueTiger
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Tiger,
+        Icon = OutOfPlayTextures/BlueTiger_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item BlueWolf
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Wolf,
+        Icon = OutOfPlayTextures/BlueWolf_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedCat
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Cat,
+        Icon = OutOfPlayTextures/RedCat_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedDog
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Dog,
+        Icon = OutOfPlayTextures/RedDog_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedElephant
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Elephant,
+        Icon = OutOfPlayTextures/RedElephant_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedLeopard
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Leopard,
+        Icon = OutOfPlayTextures/RedLeopard_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedLion
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Lion,
+        Icon = OutOfPlayTextures/RedLion_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedRat
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Rat,
+        Icon = OutOfPlayTextures/RedRat_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedTiger
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Tiger,
+        Icon = OutOfPlayTextures/RedTiger_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	 item RedWolf
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Wolf,
+        Icon = OutOfPlayTextures/RedWolf_ico,
+        WorldStaticModel = Jungle_Piece,
+    }
+
+	item JungleBoard
+    {
+       DisplayCategory = GameBoard, 
+       WeightReduction = 12, 
+       Weight = 1, 
+       Type = Container, 
+       Capacity = 1,
+       PutInSound   =   PutItemInBag,
+       DisplayName = Go Board, 
+       Icon = OutOfPlayTextures/JungleBoard, 
+       WorldStaticModel = Jungle_Board,
+       gameNight_boxEnough = TRUE,
+     }
+
+
+    item JungleBoard_sealed
+        {
+         DisplayCategory = GameBox, 
+         WeightReduction = 12,
+         Weight = 0.1, 
+         Type = Normal,
+         Capacity = 1,
+         DisplayName = Go Board (Sealed), 
+         Icon = OutOfPlayTextures/JungleBoard, 
+         WorldStaticModel = Jungle_Board,
+        }
+
+}

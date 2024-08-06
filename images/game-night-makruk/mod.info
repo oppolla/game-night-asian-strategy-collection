@@ -1,0 +1,5 @@
+name=Game Night - Makruk
+id=gamenight_makruk
+description=Play the ancient game of Makruk in Project Zomboid.
+poster=poster.png
+require=gamenight

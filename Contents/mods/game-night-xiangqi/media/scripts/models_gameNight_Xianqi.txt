@@ -1,0 +1,16 @@
+module Base
+{
+  
+	model Xianqi_Board
+	{
+        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/XianqiBoard, scale = 0.42,
+        attachment world { offset = -0.215 -0.0700 0.245, rotate = 0.0000 0.0000 0.0000, }
+    }
+
+    model Xianqi_Piece
+    {
+        mesh = WorldItems/coin,
+        texture = modelTextures/PieceTexture,
+        scale = 0.001,
+    }
+}

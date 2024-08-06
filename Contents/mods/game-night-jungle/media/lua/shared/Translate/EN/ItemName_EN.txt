@@ -1,0 +1,20 @@
+ItemName_EN = {
+
+    ItemName_Base.BlueCat = "Blue Cat",
+    ItemName_Base.BlueDog = "Blue Dog",
+    ItemName_Base.BlueElephant = "Blue Elephant",
+    ItemName_Base.BlueLeopard = "Blue Leopard",
+	ItemName_Base.BlueRat = "Blue Rat",
+    ItemName_Base.BlueTiger = "Blue Tiger",
+    ItemName_Base.BlueWolf = "Blue Wolf",
+    ItemName_Base.RedCat = "Red Cat",
+    ItemName_Base.RedDog = "Red Dog",
+    ItemName_Base.RedElephant = "Red Elephant",
+    ItemName_Base.RedLeopard = "Red Leopard",
+    ItemName_Base.RedLion = "Red Lion",
+    ItemName_Base.RedRat = "Red Rat",
+    ItemName_Base.RedTiger = "Red Tiger",
+    ItemName_Base.RedWolf = "Red Wolf",
+    ItemName_Base.JungleBoard = "Jungle Board",
+    ItemName_Base.JungleBoard_sealed = "Jungle Set (Sealed)",
+}

@@ -1,0 +1,21 @@
+ItemName_EN = {
+
+    ItemName_Base.JanggiRedGeneral = "Red General",
+    ItemName_Base.JanggiBlueGeneral = "Blue General",
+    ItemName_Base.JanggiRedHorse = "Red Horse",
+    ItemName_Base.JanggiBlueHorse = "Blue Horse",
+    ItemName_Base.JanggiRedElephant = "Red Elephant",
+    ItemName_Base.JanggiBlueElephant = "Blue Elephant",
+    ItemName_Base.JanggiRedChariot = "Red Chariot",
+    ItemName_Base.JanggiBlueChariot = "Blue Chariot",
+    ItemName_Base.JanggiRedCannon = "Red Cannon",
+    ItemName_Base.JanggiBlueCannon = "Blue Cannon",
+    ItemName_Base.JanggiRedSoldier = "Red Soldier",
+    ItemName_Base.JanggiBlueSoldier = "Blue Soldier",
+    ItemName_Base.JanggiRedGuard = "Red Guard",
+    ItemName_Base.JanggiBlueGuard = "Blue Guard",
+
+    ItemName_Base.JanggiBoard = "Janggi Board",
+
+    ItemName_Base.JanggiBoard_sealed = "Janggi Set (Sealed)",
+}

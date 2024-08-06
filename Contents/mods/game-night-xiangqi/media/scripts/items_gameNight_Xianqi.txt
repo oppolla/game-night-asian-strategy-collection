@@ -1,0 +1,172 @@
+module Base
+{
+   	 item XianqiBlackAdvisor
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Black Advisor,
+        Icon = OutOfPlayTextures/BlackAdvisor_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+
+  	item XianqiBlackElephant
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Black Elephant,
+        Icon = OutOfPlayTextures/BlackBishop_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiBlackCannon
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Black Cannon,
+        Icon = OutOfPlayTextures/BlackCannon_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiBlackHorse
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Black Horse,
+        Icon = OutOfPlayTextures/BlackHorse_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiBlackGeneral
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Black General,
+        Icon = OutOfPlayTextures/BlackGeneral_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiBlackSoldier
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Black Soldier,
+        Icon = OutOfPlayTextures/BlackSoldier_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiBlackChariot
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Black Chariot,
+        Icon = OutOfPlayTextures/BlackChariot_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiRedAdvisor
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Advisor,
+        Icon = OutOfPlayTextures/RedAdvisor_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiRedElephant
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Elephant,
+        Icon = OutOfPlayTextures/RedElephant_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiRedCannon
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Cannon,
+        Icon = OutOfPlayTextures/RedCannon_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiRedGeneral
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red General,
+        Icon = OutOfPlayTextures/RedGeneral_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiRedHorse
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Horse,
+        Icon = OutOfPlayTextures/RedHorse_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiRedSoldier
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Soldier,
+        Icon = OutOfPlayTextures/RedSoldier_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+	item XianqiRedChariot
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Chariot,
+        Icon = OutOfPlayTextures/RedChariot_ico,
+        WorldStaticModel = Xianqi_Piece,
+    }
+
+
+	item XianqiBoard
+	{
+       DisplayCategory = GameBoard, 
+       WeightReduction = 12, 
+       Weight = 1, 
+       Type = Container, 
+       Capacity = 1,
+       PutInSound   =   PutItemInBag,
+       DisplayName = Go Board, 
+       Icon = OutOfPlayTextures/XianqiBoard, 
+       WorldStaticModel = Xianqi_Board,
+       gameNight_boxEnough = TRUE,
+	}
+
+
+    item XianqiBoard_sealed
+        {
+         DisplayCategory = GameBox, 
+         WeightReduction = 12,
+         Weight = 0.1, 
+         Type = Normal,
+         Capacity = 1,
+         DisplayName = Xianqi Set (Sealed), 
+         Icon = OutOfPlayTextures/XianqiBoard, 
+         WorldStaticModel = Xianqi_Board,
+        }
+
+}

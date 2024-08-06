@@ -1,0 +1,5 @@
+name=Game Night - Jungle
+id=gamenight_jungle
+description=Play the ancient game of Dou Shou Qi (also know as Jungle Chess) in Project Zomboid.
+poster=poster.png
+require=gamenight

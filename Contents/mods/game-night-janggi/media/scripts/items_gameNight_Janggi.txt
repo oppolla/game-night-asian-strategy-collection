@@ -1,0 +1,171 @@
+module Base
+{
+   	
+  	item JanggiRedGeneral
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red General,
+        Icon = OutOfPlayTextures/JanggiRedGeneral_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBlueGeneral
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue General,
+        Icon = OutOfPlayTextures/JanggiBlueGeneral_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiRedHorse
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Horse,
+        Icon = OutOfPlayTextures/JanggiRedHorse_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBlueHorse
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Horse,
+        Icon = OutOfPlayTextures/JanggiBlueHorse_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiRedElephant
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Elephant,
+        Icon = OutOfPlayTextures/JanggiRedElephant_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBlueElephant
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Elephant,
+        Icon = OutOfPlayTextures/JanggiBlueElephant_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiRedChariot
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Chariot,
+        Icon = OutOfPlayTextures/JanggiRedChariot_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBlueChariot
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Chariot,
+        Icon = OutOfPlayTextures/JanggiBlueChariot_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiRedCannon
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Cannon,
+        Icon = OutOfPlayTextures/JanggiRedCannon_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBlueCannon
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Cannon,
+        Icon = OutOfPlayTextures/JanggiBlueCannon_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiRedSoldier
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Soldier,
+        Icon = OutOfPlayTextures/JanggiRedSoldier_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBlueSoldier
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Soldier,
+        Icon = OutOfPlayTextures/JanggiBlueSoldier_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiRedGuard
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Red Guard,
+        Icon = OutOfPlayTextures/JanggiRedGuard_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBlueGuard
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Blue Guard,
+        Icon = OutOfPlayTextures/JanggiBlueGuard_ico,
+        WorldStaticModel = Janggi_Piece,
+    }
+
+	item JanggiBoard
+	{
+       DisplayCategory = GameBoard, 
+       WeightReduction = 12, 
+       Weight = 1, 
+       Type = Container, 
+       Capacity = 1,
+       PutInSound   =   PutItemInBag,
+       DisplayName = Janggi Board, 
+       Icon = OutOfPlayTextures/JanggiBoard, 
+       WorldStaticModel = Janggi_Board,
+       gameNight_boxEnough = TRUE,
+	}
+
+
+    item JanggiBoard_sealed
+        {
+         DisplayCategory = GameBox, 
+         WeightReduction = 12,
+         Weight = 0.1, 
+         Type = Normal,
+         Capacity = 1,
+         DisplayName = Janggi Set (Sealed), 
+         Icon = OutOfPlayTextures/JanggiBoard, 
+         WorldStaticModel = Janggi_Board,
+        }
+
+}

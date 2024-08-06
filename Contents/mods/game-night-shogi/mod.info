@@ -1,0 +1,5 @@
+name=Game Night - Shogi
+id=gamenight_shogi
+description=Play the ancient game of Shogi in Project Zomboid.
+poster=poster.png
+require=gamenight

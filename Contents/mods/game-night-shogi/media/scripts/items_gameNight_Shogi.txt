@@ -1,0 +1,193 @@
+module Base
+{
+   	 item ShogiFuhyo1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Fuhyo,
+        Icon = OutOfPlayTextures/ShogiFuhyo_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+	 item ShogiFuhyo2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Fuhyo,
+        Icon = OutOfPlayTextures/ShogiFuhyo_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiHisha1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Hisha,
+        Icon = OutOfPlayTextures/ShogiHisha_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiHisha2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Hisha,
+        Icon = OutOfPlayTextures/ShogiHisha_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiKakugyo1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kakugyo,
+        Icon = OutOfPlayTextures/ShogiKakugyo_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiKakugyo2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kakugyo,
+        Icon = OutOfPlayTextures/ShogiKakugyo_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiKeima1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Keima,
+        Icon = OutOfPlayTextures/ShogiKeima_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiKeima2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Keima,
+        Icon = OutOfPlayTextures/ShogiKeima_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiKinsho1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kinsho,
+        Icon = OutOfPlayTextures/ShogiKinsho_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiKinsho2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kinsho,
+        Icon = OutOfPlayTextures/ShogiKinsho_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiGinsho1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kinsho,
+        Icon = OutOfPlayTextures/ShogiGinsho_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiGinsho2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kinsho,
+        Icon = OutOfPlayTextures/ShogiGinsho_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+    item ShogiKyosha1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kyosha,
+        Icon = OutOfPlayTextures/ShogiKyosha_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+
+    item ShogiKyosha2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Kyosha,
+        Icon = OutOfPlayTextures/ShogiKyosha_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+
+    item ShogiOsho1
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Osho,
+        Icon = OutOfPlayTextures/ShogiOsho_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+
+    item ShogiOsho2
+    {
+        DisplayCategory = GamePiece, 
+        Weight = 0.01, 
+        Type = Normal,
+        DisplayName = Gyokusho,
+        Icon = OutOfPlayTextures/ShogiGyokusho_ico,
+        WorldStaticModel = Shogi_Piece,
+    }
+
+	item ShogiBoard
+	{
+       DisplayCategory = GameBoard, 
+       WeightReduction = 12, 
+       Weight = 1, 
+       Type = Container, 
+       Capacity = 1,
+       PutInSound   =   PutItemInBag,
+       DisplayName = Shogi Board, 
+       Icon = OutOfPlayTextures/GoBoard, 
+       WorldStaticModel = Shogi_Board,
+       gameNight_boxEnough = TRUE,
+	}
+
+
+    item ShogiBoard_sealed
+        {
+         DisplayCategory = GameBox, 
+         WeightReduction = 12,
+         Weight = 0.1, 
+         Type = Normal,
+         Capacity = 1,
+         DisplayName = Shogi Set (Sealed), 
+         Icon = OutOfPlayTextures/ShogiBoard, 
+         WorldStaticModel = Shogi_Board,
+        }
+
+}

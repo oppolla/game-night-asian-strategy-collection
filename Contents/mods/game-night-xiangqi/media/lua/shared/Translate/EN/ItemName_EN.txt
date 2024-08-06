@@ -1,0 +1,20 @@
+ItemName_EN = {
+
+    ItemName_Base.XianqiBlackGeneral = "Black General",
+    ItemName_Base.XianqiBlackAdvisor = "Black Advisor",
+    ItemName_Base.XianqiBlackElephant = "Black Elephant",
+    ItemName_Base.XianqiBlackCannon = "Black Cannon",
+    ItemName_Base.XianqiBlackHorse = "Black Horse",
+    ItemName_Base.XianqiBlackSoldier = "Black Soldier",
+    ItemName_Base.XianqiBlackChariot = "Black Chariot",
+    ItemName_Base.XianqiRedGeneral = "Red General",
+    ItemName_Base.XianqiRedAdvisor = "Red Advisor",
+    ItemName_Base.XianqiRedElephant = "Red Elephant",
+    ItemName_Base.XianqiRedCannon = "Red Cannon",
+    ItemName_Base.XianqiRedHorse = "Red Horse",
+    ItemName_Base.XianqiRedSoldier = "Red Soldier",
+    ItemName_Base.XianqiRedChariot = "Red Chariot",
+    ItemName_Base.XianqiBoard_sealed = "Xianqi Set (sealed)",
+    ItemName_Base.XianqiBoard = "Xianqi Board",
+
+}

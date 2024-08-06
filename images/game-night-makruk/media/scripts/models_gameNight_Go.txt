@@ -1,0 +1,23 @@
+module Base
+{
+  
+	model Makruk_Board
+	{
+        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/MakrukBoard, scale = 0.41,
+        attachment world { offset = -0.215 -0.0700 0.245, rotate = 0.0000 0.0000 0.0000, }
+    }
+
+    model Go_Stones_Black
+    {
+        mesh = WorldItems/coin,
+        texture = modelTextures/Black_Stone_Texture,
+        scale = 0.001,
+    }
+
+    model Go_Stones_White
+    {
+        mesh = WorldItems/coin,
+        texture = modelTextures/White_Stone_Texture,
+        scale = 0.001,
+    }
+}

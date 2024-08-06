@@ -1,0 +1,5 @@
+name=Game Night - Xianqi
+id=gamenight_xianqi
+description=Play the ancient game of Xianqi in Project Zomboid.
+poster=poster.png
+require=gamenight
