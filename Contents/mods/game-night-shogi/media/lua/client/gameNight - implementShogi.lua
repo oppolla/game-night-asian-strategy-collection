@@ -5,8 +5,7 @@ local applyItemDetails = require "gameNight - applyItemDetails"
 local gamePieceAndBoardHandler = applyItemDetails.gamePieceAndBoardHandler
 
 
-gamePieceAndBoardHandler.registerTypes
-({
+gamePieceAndBoardHandler.registerTypes({
 	"Base.ShogiBoard",
 	"Base.ShogiFuhyo1",
 	--"Base.ShogiFuhyoPromoted1",

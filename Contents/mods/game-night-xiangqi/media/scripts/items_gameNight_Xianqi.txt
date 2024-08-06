@@ -17,7 +17,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black Elephant,
-        Icon = OutOfPlayTextures/BlackBishop_ico,
+        Icon = OutOfPlayTextures/BlackElephant_ico,
         WorldStaticModel = Xianqi_Piece,
     }
 

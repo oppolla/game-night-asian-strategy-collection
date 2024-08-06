@@ -5,9 +5,7 @@ local applyItemDetails = require "gameNight - applyItemDetails"
 local gamePieceAndBoardHandler = applyItemDetails.gamePieceAndBoardHandler
 
 
-gamePieceAndBoardHandler.registerTypes
-({
-
+gamePieceAndBoardHandler.registerTypes({
 	"Base.JungleBoard",
 	"Base.JungleBlueCat",
 	"Base.JungleBlueDog",
@@ -24,7 +22,6 @@ gamePieceAndBoardHandler.registerTypes
 	"Base.JungleRedRat",
 	"Base.JungleRedTiger",
 	"Base.JungleRedWolf",
-
 })
 
 
