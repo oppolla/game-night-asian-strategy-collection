@@ -6,7 +6,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Cat,
-        Icon = OutOfPlayTextures/BlueCat_ico,
+        Icon = OutOfPlayTextures/JungleBlueCat,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -16,7 +16,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Dog,
-        Icon = OutOfPlayTextures/BlueDog_ico,
+        Icon = OutOfPlayTextures/JungleBlueDog,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -26,7 +26,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Elephant,
-        Icon = OutOfPlayTextures/BlueElephant_ico,
+        Icon = OutOfPlayTextures/JungleBlueElephant,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -36,7 +36,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Leopard,
-        Icon = OutOfPlayTextures/BlueLeopard_ico,
+        Icon = OutOfPlayTextures/JungleBlueLeopard,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -46,7 +46,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Rat,
-        Icon = OutOfPlayTextures/BlueRat_ico,
+        Icon = OutOfPlayTextures/JungleBlueRat,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -56,7 +56,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Tiger,
-        Icon = OutOfPlayTextures/BlueTiger_ico,
+        Icon = OutOfPlayTextures/JungleBlueTiger,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -66,7 +66,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Wolf,
-        Icon = OutOfPlayTextures/BlueWolf_ico,
+        Icon = OutOfPlayTextures/JungleBlueWolf,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -76,7 +76,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Cat,
-        Icon = OutOfPlayTextures/RedCat_ico,
+        Icon = OutOfPlayTextures/JungleRedCat,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -86,7 +86,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Dog,
-        Icon = OutOfPlayTextures/RedDog_ico,
+        Icon = OutOfPlayTextures/JungleRedDog,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -96,7 +96,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Elephant,
-        Icon = OutOfPlayTextures/RedElephant_ico,
+        Icon = OutOfPlayTextures/JungleRedElephant,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -106,7 +106,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Leopard,
-        Icon = OutOfPlayTextures/RedLeopard_ico,
+        Icon = OutOfPlayTextures/JungleRedLeopard,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -116,7 +116,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Lion,
-        Icon = OutOfPlayTextures/RedLion_ico,
+        Icon = OutOfPlayTextures/JungleRedLion,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -126,7 +126,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Rat,
-        Icon = OutOfPlayTextures/RedRat_ico,
+        Icon = OutOfPlayTextures/JungleRedRat,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -136,7 +136,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Tiger,
-        Icon = OutOfPlayTextures/RedTiger_ico,
+        Icon = OutOfPlayTextures/JungleRedTiger,
         WorldStaticModel = Jungle_Piece,
     }
 
@@ -146,7 +146,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Wolf,
-        Icon = OutOfPlayTextures/RedWolf_ico,
+        Icon = OutOfPlayTextures/JungleRedWolf,
         WorldStaticModel = Jungle_Piece,
     }
 

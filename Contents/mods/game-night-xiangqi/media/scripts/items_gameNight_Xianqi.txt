@@ -6,7 +6,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black Advisor,
-        Icon = OutOfPlayTextures/BlackAdvisor_ico,
+        Icon = OutOfPlayTextures/XianqiBlackAdvisor,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -17,7 +17,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black Elephant,
-        Icon = OutOfPlayTextures/BlackElephant_ico,
+        Icon = OutOfPlayTextures/XianqiBlackElephant,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -27,7 +27,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black Cannon,
-        Icon = OutOfPlayTextures/BlackCannon_ico,
+        Icon = OutOfPlayTextures/XianqiBlackCannon,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -37,7 +37,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black Horse,
-        Icon = OutOfPlayTextures/BlackHorse_ico,
+        Icon = OutOfPlayTextures/XianqiBlackHorse,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -47,7 +47,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black General,
-        Icon = OutOfPlayTextures/BlackGeneral_ico,
+        Icon = OutOfPlayTextures/XianqiBlackGeneral,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -57,7 +57,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black Soldier,
-        Icon = OutOfPlayTextures/BlackSoldier_ico,
+        Icon = OutOfPlayTextures/XianqiBlackSoldier,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -67,7 +67,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Black Chariot,
-        Icon = OutOfPlayTextures/BlackChariot_ico,
+        Icon = OutOfPlayTextures/XianqiBlackChariot,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -77,7 +77,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Advisor,
-        Icon = OutOfPlayTextures/RedAdvisor_ico,
+        Icon = OutOfPlayTextures/XianqiRedAdvisor,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -87,7 +87,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Elephant,
-        Icon = OutOfPlayTextures/RedElephant_ico,
+        Icon = OutOfPlayTextures/XianqiRedElephant,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -97,7 +97,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Cannon,
-        Icon = OutOfPlayTextures/RedCannon_ico,
+        Icon = OutOfPlayTextures/XianqiRedCannon,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -107,7 +107,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red General,
-        Icon = OutOfPlayTextures/RedGeneral_ico,
+        Icon = OutOfPlayTextures/XianqiRedGeneral,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -117,7 +117,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Horse,
-        Icon = OutOfPlayTextures/RedHorse_ico,
+        Icon = OutOfPlayTextures/XianqiRedHorse,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -127,7 +127,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Soldier,
-        Icon = OutOfPlayTextures/RedSoldier_ico,
+        Icon = OutOfPlayTextures/XianqiRedSoldier,
         WorldStaticModel = Xianqi_Piece,
     }
 
@@ -137,7 +137,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Chariot,
-        Icon = OutOfPlayTextures/RedChariot_ico,
+        Icon = OutOfPlayTextures/XianqiRedChariot,
         WorldStaticModel = Xianqi_Piece,
     }
 

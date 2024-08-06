@@ -6,7 +6,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Fuhyo,
-        Icon = OutOfPlayTextures/ShogiFuhyo_ico,
+        Icon = OutOfPlayTextures/ShogiFuhyo,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -16,7 +16,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Fuhyo,
-        Icon = OutOfPlayTextures/ShogiFuhyo_ico,
+        Icon = OutOfPlayTextures/ShogiFuhyo,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -26,7 +26,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Hisha,
-        Icon = OutOfPlayTextures/ShogiHisha_ico,
+        Icon = OutOfPlayTextures/ShogiHisha,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -36,7 +36,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Hisha,
-        Icon = OutOfPlayTextures/ShogiHisha_ico,
+        Icon = OutOfPlayTextures/ShogiHisha,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -46,7 +46,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kakugyo,
-        Icon = OutOfPlayTextures/ShogiKakugyo_ico,
+        Icon = OutOfPlayTextures/ShogiKakugyo,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -56,7 +56,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kakugyo,
-        Icon = OutOfPlayTextures/ShogiKakugyo_ico,
+        Icon = OutOfPlayTextures/ShogiKakugyo,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -66,7 +66,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Keima,
-        Icon = OutOfPlayTextures/ShogiKeima_ico,
+        Icon = OutOfPlayTextures/ShogiKeima,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -76,7 +76,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Keima,
-        Icon = OutOfPlayTextures/ShogiKeima_ico,
+        Icon = OutOfPlayTextures/ShogiKeima,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -86,7 +86,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kinsho,
-        Icon = OutOfPlayTextures/ShogiKinsho_ico,
+        Icon = OutOfPlayTextures/ShogiKinsho,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -96,7 +96,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kinsho,
-        Icon = OutOfPlayTextures/ShogiKinsho_ico,
+        Icon = OutOfPlayTextures/ShogiKinsho,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -106,7 +106,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kinsho,
-        Icon = OutOfPlayTextures/ShogiGinsho_ico,
+        Icon = OutOfPlayTextures/ShogiGinsho,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -116,7 +116,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kinsho,
-        Icon = OutOfPlayTextures/ShogiGinsho_ico,
+        Icon = OutOfPlayTextures/ShogiGinsho,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -126,7 +126,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kyosha,
-        Icon = OutOfPlayTextures/ShogiKyosha_ico,
+        Icon = OutOfPlayTextures/ShogiKyosha,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -137,7 +137,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Kyosha,
-        Icon = OutOfPlayTextures/ShogiKyosha_ico,
+        Icon = OutOfPlayTextures/ShogiKyosha,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -148,7 +148,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Osho,
-        Icon = OutOfPlayTextures/ShogiOsho_ico,
+        Icon = OutOfPlayTextures/ShogiOsho,
         WorldStaticModel = Shogi_Piece,
     }
 
@@ -159,7 +159,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Gyokusho,
-        Icon = OutOfPlayTextures/ShogiGyokusho_ico,
+        Icon = OutOfPlayTextures/ShogiGyokusho,
         WorldStaticModel = Shogi_Piece,
     }
 
