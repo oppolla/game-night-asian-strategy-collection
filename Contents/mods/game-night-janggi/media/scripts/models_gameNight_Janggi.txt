@@ -3,7 +3,7 @@ module Base
   
 	model Janggi_Board
 	{
-        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/JanggiBoard, scale = 0.42,
+        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/JanggiBoard, scale = 0.37,
         attachment world { offset = -0.215 -0.0700 0.245, rotate = 0.0000 0.0000 0.0000, }
     }
 

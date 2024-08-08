@@ -3,7 +3,7 @@ module Base
   
 	model Jungle_Board
 	{
-        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/JungleBoard, scale = 0.41,
+        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/JungleBoard, scale = 0.33,
         attachment world { offset = -0.215 -0.0700 0.245, rotate = 0.0000 0.0000 0.0000, }
     }
 
