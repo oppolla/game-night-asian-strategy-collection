@@ -169,10 +169,10 @@ module Base
        WeightReduction = 12, 
        Weight = 1, 
        Type = Container, 
-       Capacity = 1,
+       Capacity = 1.5,
        PutInSound   =   PutItemInBag,
        DisplayName = Shogi Board, 
-       Icon = OutOfPlayTextures/ShogiBoardBoard, 
+       Icon = OutOfPlayTextures/ShogiBoard, 
        WorldStaticModel = Shogi_Board,
        gameNight_boxEnough = TRUE,
 	}

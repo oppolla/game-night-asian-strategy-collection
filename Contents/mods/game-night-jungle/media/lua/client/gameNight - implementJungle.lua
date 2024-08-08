@@ -5,24 +5,8 @@ local applyItemDetails = require "gameNight - applyItemDetails"
 local gamePieceAndBoardHandler = applyItemDetails.gamePieceAndBoardHandler
 
 
-gamePieceAndBoardHandler.registerTypes({
-	"Base.JungleBoard",
-	"Base.JungleBlueCat",
-	"Base.JungleBlueDog",
-	"Base.JungleBlueElephant",
-	"Base.JungleBlueLeopard",
-	"Base.JungleBlueRat",
-	"Base.JungleBlueTiger",
-	"Base.JungleBlueWolf",
-	"Base.JungleRedCat",
-	"Base.JungleRedDog",
-	"Base.JungleRedElephant",
-	"Base.JungleRedLeopard",
-	"Base.JungleRedLion",
-	"Base.JungleRedRat",
-	"Base.JungleRedTiger",
-	"Base.JungleRedWolf",
-})
+gamePieceAndBoardHandler.registerTypes({"Base.JungleBoard","Base.JungleBlueCat","Base.JungleBlueDog","Base.JungleBlueElephant","Base.JungleBlueLeopard","Base.JungleBlueRat","Base.JungleBlueTiger",
+"Base.JungleBlueWolf","Base.JungleRedCat","Base.JungleRedDog","Base.JungleRedElephant","Base.JungleRedLeopard","Base.JungleRedLion","Base.JungleRedRat","Base.JungleRedTiger","Base.JungleRedWolf"})
 
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBoard",

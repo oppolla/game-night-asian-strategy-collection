@@ -11,7 +11,7 @@ module Base
     {
         mesh = WorldItems/coin,
         texture = modelTextures/PieceTexture,
-        scale = 0.001,
+        scale = 0.01,
     }
 
 }

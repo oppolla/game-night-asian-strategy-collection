@@ -5,39 +5,8 @@ local applyItemDetails = require "gameNight - applyItemDetails"
 local gamePieceAndBoardHandler = applyItemDetails.gamePieceAndBoardHandler
 
 
-gamePieceAndBoardHandler.registerTypes({
-	"Base.ShogiBoard",
-	"Base.ShogiFuhyo1",
-	--"Base.ShogiFuhyoPromoted1",
-	"Base.ShogiFuhyo2",
-	--"Base.ShogiFuhyoPromoted2",
-	"Base.ShogiHisha1",
-	--"Base.ShogiHishaPromoted1",
-	"Base.ShogiHisha2",
-	--"Base.ShogiHishaPromoted2",
-	"Base.ShogiKakugyo1",
-	--"Base.ShogiKakugyoPromoted1",
-	"Base.ShogiKakugyo2",
-	--"Base.ShogiKakugyoPromoted2",
-	"Base.ShogiKeima1",
-	--"Base.ShogiKeimaPromoted1",
-	"Base.ShogiKeima2",
-	--"Base.ShogiKeimaPromoted2",
-	"Base.ShogiKinsho1",
-	"Base.ShogiKinsho2",
-	"Base.ShogiGinsho1",
-	--"Base.ShogiGinshoPromoted1",
-	"Base.ShogiGinsho2",
-	--"Base.ShogiGinshoPromoted2",
-	"Base.ShogiKyosha1",
-	--"Base.ShogiKyoshaPromoted1",
-	"Base.ShogiKyosha2",
-	--"Base.ShogiKyoshaPromoted2",
-	"Base.ShogiOsho1",
-	"Base.ShogiOsho2",
-
-
-})
+gamePieceAndBoardHandler.registerTypes({"Base.ShogiBoard","Base.ShogiFuhyo1","Base.ShogiFuhyo2","Base.ShogiHisha1","Base.ShogiHisha2","Base.ShogiKakugyo1","Base.ShogiKakugyo2","Base.ShogiKeima1",
+"Base.ShogiKeima2","Base.ShogiKinsho1","Base.ShogiKinsho2","Base.ShogiGinsho1","Base.ShogiGinsho2","Base.ShogiKyosha1","Base.ShogiKyosha2","Base.ShogiOsho1","Base.ShogiOsho2"})
 
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiBoard",

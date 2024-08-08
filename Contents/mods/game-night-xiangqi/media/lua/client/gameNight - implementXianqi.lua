@@ -5,23 +5,9 @@ local applyItemDetails = require "gameNight - applyItemDetails"
 local gamePieceAndBoardHandler = applyItemDetails.gamePieceAndBoardHandler
 
 
-gamePieceAndBoardHandler.registerTypes({
-	"Base.XianqiBoard",
-	"Base.XianqiBlackAdvisor",
-	"Base.XianqiBlackElephant",
-	"Base.XianqiBlackCannon",
-	"Base.XianqiBlackHorse",
-    "Base.XianqiBlackGeneral",
-	"Base.XianqiBlackSoldier",
-	"Base.XianqiBlackChariot",
-	"Base.XianqiRedAdvisor",
-	"Base.XianqiRedElephant",
-	"Base.XianqiRedCannon",
-	"Base.XianqiRedGeneral",
-	"Base.XianqiRedHorse",
-	"Base.XianqiRedSoldier",
-	"Base.XianqiRedChariot"
-})
+gamePieceAndBoardHandler.registerTypes({"Base.XianqiBlackAdvisor","Base.XianqiBlackElephant","Base.XianqiBlackCannon","Base.XianqiBlackHorse","Base.XianqiBlackGeneral",
+"Base.XianqiBlackSoldier","Base.XianqiBlackChariot","Base.XianqiRedAdvisor","Base.XianqiRedElephant","Base.XianqiRedCannon","Base.XianqiRedGeneral",
+	"Base.XianqiRedHorse","Base.XianqiRedSoldier","Base.XianqiRedChariot"})
 
 
 gamePieceAndBoardHandler.registerSpecial("Base.XianqiBoard",
