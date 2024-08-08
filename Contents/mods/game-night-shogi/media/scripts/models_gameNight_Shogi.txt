@@ -11,6 +11,6 @@ module Base
     {
         mesh = WorldItems/VideoGame,
         texture = modelTextures/PieceTexture,
-        scale = 0.001,
+        scale = 0.1,
     }
 }

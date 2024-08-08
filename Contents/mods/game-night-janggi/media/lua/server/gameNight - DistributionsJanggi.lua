@@ -38,7 +38,7 @@ gameNightDistro.gameNightBoxes["JanggiBoard"] = {
         "JanggiBlueSoldier", 9999,
         "JanggiBlueSoldier", 9999,
         "JanggiBlueSoldier", 9999,
-        "JanggiBlueSoldier", 9999
+        "JanggiBlueSoldier", 9999,
     },
     junk = { rolls = 1, items = {} }, fillRand = 0,
 }

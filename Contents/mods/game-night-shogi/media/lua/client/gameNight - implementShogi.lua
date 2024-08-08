@@ -5,8 +5,24 @@ local applyItemDetails = require "gameNight - applyItemDetails"
 local gamePieceAndBoardHandler = applyItemDetails.gamePieceAndBoardHandler
 
 
-gamePieceAndBoardHandler.registerTypes({"Base.ShogiBoard","Base.ShogiFuhyo1","Base.ShogiFuhyo2","Base.ShogiHisha1","Base.ShogiHisha2","Base.ShogiKakugyo1","Base.ShogiKakugyo2","Base.ShogiKeima1",
-"Base.ShogiKeima2","Base.ShogiKinsho1","Base.ShogiKinsho2","Base.ShogiGinsho1","Base.ShogiGinsho2","Base.ShogiKyosha1","Base.ShogiKyosha2","Base.ShogiOsho1","Base.ShogiOsho2"})
+gamePieceAndBoardHandler.registerTypes({
+	"Base.ShogiBoard",
+	"Base.ShogiFuhyo1",
+	"Base.ShogiFuhyo2",
+	"Base.ShogiHisha1",
+	"Base.ShogiHisha2",
+	"Base.ShogiKakugyo1",
+	"Base.ShogiKakugyo2",
+	"Base.ShogiKeima1",
+	"Base.ShogiKeima2",
+	"Base.ShogiKinsho1",
+	"Base.ShogiKinsho2",
+	"Base.ShogiGinsho1",
+	"Base.ShogiGinsho2",
+	"Base.ShogiKyosha1",
+	"Base.ShogiKyosha2",
+	"Base.ShogiOsho1",
+	"Base.ShogiOsho2"})
 
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiBoard",
@@ -25,7 +41,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiFuhyo1",
 			altState="ShogiFuhyoPromoted1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 5, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -35,7 +50,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiFuhyo2",
 			altState="ShogiFuhyoPromoted2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 5, rgb = {0.79, 0.66, 0.15}},
 		}
 )	
 
@@ -45,7 +59,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiHisha1",
 			altState="ShogiHishaPromoted1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -55,7 +68,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiHisha2",
 			altState="ShogiHishaPromoted2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -65,7 +77,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKakugyo1",
 			altState="ShogiKakugyoPromoted1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -75,7 +86,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKakugyo2",
 			altState="ShogiKakugyoPromoted2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -85,7 +95,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKeima1",
 			altState="ShogiKeimaPromoted1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -95,7 +104,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKeima2",
 			altState="ShogiKeimaPromoted2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -105,7 +113,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKinsho1",
 			altState="MedBlank1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -115,7 +122,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKinsho2",
 			altState="MedBlank2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -125,7 +131,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiGinsho1",
 			altState="ShogiGinshoPromoted1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -135,7 +140,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiGinsho2",
 			altState="ShogiGinshoPromoted2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 7, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -145,7 +149,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKyosha1",
 			altState="ShogiKyoshaPromoted1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -155,7 +158,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiKyosha2",
 			altState="ShogiKyoshaPromoted2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 6, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -165,7 +167,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiOsho1",
 			altState="LargeBlank1",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 8, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
@@ -175,7 +176,6 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiOsho2",
 			altState="LargeBlank2",
 			noRotate=true,
 			shiftAction = "flipPiece",
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="PieceTexture", depth = 8, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 	
