@@ -7,7 +7,6 @@ gameNightDistro.proceduralDistGameNight.itemsToAdd["JungleBoard"] = {}
 gameNightDistro.gameNightBoxes["JungleBoard"] = {
     rolls = 1,
     items = {
-        "JungleBoard", 9999,
         "JungleBlueCat", 9999,
         "JungleBlueDog", 9999,
         "JungleBlueElephant", 9999,

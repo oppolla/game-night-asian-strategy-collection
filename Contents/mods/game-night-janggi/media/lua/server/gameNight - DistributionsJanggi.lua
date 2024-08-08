@@ -7,7 +7,6 @@ gameNightDistro.proceduralDistGameNight.itemsToAdd["JanggiBoard"] = {}
 gameNightDistro.gameNightBoxes["JanggiBoard"] = {
     rolls = 1,
     items = {
-        "JanggiBoard", 9999,
         "JanggiRedGeneral", 9999,
         "JanggiBlueGeneral", 9999,
         "JanggiRedHorse", 9999,

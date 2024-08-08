@@ -54,8 +54,6 @@ gameNightDistro.gameNightBoxes["XianqiBoard"] = {
 
         "XianqiRedChariot", 9999,
         "XianqiRedChariot", 9999,
-
-        "XianqiBoard", 9999,
     },
     junk = { rolls = 1, items = {} }, fillRand = 0,
 }

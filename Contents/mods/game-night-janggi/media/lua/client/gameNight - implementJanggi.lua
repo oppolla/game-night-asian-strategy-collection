@@ -6,21 +6,21 @@ local gamePieceAndBoardHandler = applyItemDetails.gamePieceAndBoardHandler
 
 
 gamePieceAndBoardHandler.registerTypes({
-"Base.JanggiBoard",
-"Base.JanggiRedGeneral",
-"Base.JanggiBlueGeneral",
-"Base.JanggiRedHorse",
-"Base.JanggiBlueHorse",
-"Base.JanggiRedElephant",
-"Base.JanggiBlueElephant",
-"Base.JanggiRedChariot",
-"Base.JanggiBlueChariot",
-"Base.JanggiRedCannon",
-"Base.JanggiBlueCannon",
-"Base.JanggiRedSoldier",
-"Base.JanggiBlueSoldier",
-"Base.JanggiRedGuard",
-"Base.JanggiBlueGuard",
+	"Base.JanggiBoard",
+	"Base.JanggiRedGeneral",
+	"Base.JanggiBlueGeneral",
+	"Base.JanggiRedHorse",
+	"Base.JanggiBlueHorse",
+	"Base.JanggiRedElephant",
+	"Base.JanggiBlueElephant",
+	"Base.JanggiRedChariot",
+	"Base.JanggiBlueChariot",
+	"Base.JanggiRedCannon",
+	"Base.JanggiBlueCannon",
+	"Base.JanggiRedSoldier",
+	"Base.JanggiBlueSoldier",
+	"Base.JanggiRedGuard",
+	"Base.JanggiBlueGuard",
 })
 
 
