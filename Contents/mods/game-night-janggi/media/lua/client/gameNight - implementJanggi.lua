@@ -1,4 +1,3 @@
-
 ---First require this so that these modules can be called on as needed.
 local applyItemDetails = require "gameNight - applyItemDetails"
 --local deckActionHandler = applyItemDetails.deckActionHandler
@@ -20,7 +19,8 @@ gamePieceAndBoardHandler.registerTypes({
 	"Base.JanggiRedSoldier",
 	"Base.JanggiBlueSoldier",
 	"Base.JanggiRedGuard",
-	"Base.JanggiBlueGuard"})
+	"Base.JanggiBlueGuard",
+})
 
 
 gamePieceAndBoardHandler.registerSpecial("Base.JanggiBoard",

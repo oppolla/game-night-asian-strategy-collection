@@ -1,4 +1,3 @@
-
 ---First require this so that these modules can be called on as needed.
 local applyItemDetails = require "gameNight - applyItemDetails"
 --local deckActionHandler = applyItemDetails.deckActionHandler
@@ -22,7 +21,8 @@ gamePieceAndBoardHandler.registerTypes({
 	"Base.ShogiKyosha1",
 	"Base.ShogiKyosha2",
 	"Base.ShogiOsho1",
-	"Base.ShogiOsho2"})
+	"Base.ShogiOsho2",
+})
 
 
 gamePieceAndBoardHandler.registerSpecial("Base.ShogiBoard",
