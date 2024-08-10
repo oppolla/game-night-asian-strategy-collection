@@ -1,23 +1,23 @@
 ItemName_EN = {
 
-    ItemName_Base.ShogiFuhyo1 = "Fuhyo"
-    ItemName_Base.ShogiFuhyo2 = "Fuhyo"
-    ItemName_Base.ShogiHisha1 = "Hisha"
-    ItemName_Base.ShogiHisha2 = "Hisha"
-    ItemName_Base.ShogiKakugyo1 = "Kakugyo"
-    ItemName_Base.ShogiKakugyo2 = "Kakugyo"
-    ItemName_Base.ShogiKeima1 = "Keima"
-    ItemName_Base.ShogiKeima2 = "Keima"
-    ItemName_Base.ShogiKinsho1 = "Kinsho"
-    ItemName_Base.ShogiKinsho2 = "Kinsho"
-    ItemName_Base.ShogiGinsho1 = "Ginsho"
-    ItemName_Base.ShogiGinsho2 = "Ginsho"
-    ItemName_Base.ShogiKyosha1 = "Kyosha"
-    ItemName_Base.ShogiKyosha2 = "Kyosha"
-    ItemName_Base.ShogiOsho1 = "Osho"
-    ItemName_Base.ShogiOsho2 = "Gyokusho"
+    ItemName_Base.ShogiFuhyo1 = "Fuhyo",
+    ItemName_Base.ShogiFuhyo2 = "Fuhyo",
+    ItemName_Base.ShogiHisha1 = "Hisha",
+    ItemName_Base.ShogiHisha2 = "Hisha",
+    ItemName_Base.ShogiKakugyo1 = "Kakugyo",
+    ItemName_Base.ShogiKakugyo2 = "Kakugyo",
+    ItemName_Base.ShogiKeima1 = "Keima",
+    ItemName_Base.ShogiKeima2 = "Keima",
+    ItemName_Base.ShogiKinsho1 = "Kinsho",
+    ItemName_Base.ShogiKinsho2 = "Kinsho",
+    ItemName_Base.ShogiGinsho1 = "Ginsho",
+    ItemName_Base.ShogiGinsho2 = "Ginsho",
+    ItemName_Base.ShogiKyosha1 = "Kyosha",
+    ItemName_Base.ShogiKyosha2 = "Kyosha",
+    ItemName_Base.ShogiOsho1 = "Osho",
+    ItemName_Base.ShogiOsho2 = "Gyokusho",
     
-    ItemName_Base.ShogiBoard = "Shogi Board"
+    ItemName_Base.ShogiBoard = "Shogi Board",
 
     ItemName_Base.ShogiBoard_sealed = "Shogi Set (Sealed)",
 }
