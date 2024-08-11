@@ -112,13 +112,13 @@ gamePieceAndBoardHandler.registerSpecial("Base.JungleRedRat",
 		}
 )
 
-gamePieceAndBoardHandler.registerSpecial("Base.RedTiger",
+gamePieceAndBoardHandler.registerSpecial("Base.JungleRedTiger",
 		{
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
-gamePieceAndBoardHandler.registerSpecial("Base.RedWolf",
+gamePieceAndBoardHandler.registerSpecial("Base.JungleRedWolf",
 		{
 			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
