@@ -29,98 +29,98 @@ gamePieceAndBoardHandler.registerSpecial("Base.JungleBoard",
 			category = "GameBoard",
 			textureSize = {588,718},
 			actions = { lock=true },
-			alternateStackRendering = { func="DrawTextureCardFace", sideTexture="WoodSide", depth=12, rgb = {0.79, 0.66, 0.15}},
+			alternateStackRendering = { func="DrawTextureCardFace", sideTexture="JungleWoodSide", depth=12, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBlueCat",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBlueDog",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBlueElephant",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBlueLeopard",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBlueRat",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBlueTiger",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleBlueWolf",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedCat",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedDog",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedElephant",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedLeopard",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedLion",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedRat",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedTiger",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 
 gamePieceAndBoardHandler.registerSpecial("Base.JungleRedWolf",
 		{
-			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="WoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
+			alternateStackRendering = {func="DrawTextureRoundFace", sideTexture="JungleWoodSide", depth = 7, rgb = {0.2, 0.2, 0.2}},
 		}
 )
 	

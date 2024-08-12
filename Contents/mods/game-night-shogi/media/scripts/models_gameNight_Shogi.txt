@@ -3,14 +3,14 @@ module Base
   
 	model Shogi_Board
 	{
-        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/ShogiBoard, scale = 0.37,
+        mesh = WorldItems/CheckerBoard, texture = Item_InPlayTextures/ShogiBoard, scale = 0.38,
         attachment world { offset = -0.215 -0.0700 0.245, rotate = 0.0000 0.0000 0.0000, }
     }
 
     model Shogi_Piece
     {
         mesh = WorldItems/VideoGame,
-        texture = modelTextures/PieceTexture,
+        texture = modelTextures/ShogiPieceTexture,
         scale = 0.1,
     }
 }

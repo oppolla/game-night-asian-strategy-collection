@@ -10,7 +10,7 @@ module Base
     model Jungle_Piece
     {
         mesh = WorldItems/coin,
-        texture = modelTextures/PieceTexture,
+        texture = modelTextures/JunglePieceTexture,
         scale = 0.1,
     }
 

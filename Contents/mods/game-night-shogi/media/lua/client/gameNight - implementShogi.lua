@@ -30,7 +30,7 @@ gamePieceAndBoardHandler.registerSpecial("Base.ShogiBoard",
 			category = "GameBoard",
 			textureSize = {645,700},
 			actions = { lock=true },
-			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="WoodSide", depth=14, rgb = {0.79, 0.66, 0.15}},
+			alternateStackRendering = {func="DrawTextureCardFace", sideTexture="ShogiWoodSide", depth=14, rgb = {0.79, 0.66, 0.15}},
 		}
 )
 

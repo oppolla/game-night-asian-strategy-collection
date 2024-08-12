@@ -10,7 +10,7 @@ module Base
     model Janggi_Piece
     {
         mesh = WorldItems/coin,
-        texture = modelTextures/PieceTexture,
+        texture = modelTextures/JanggiPieceTexture,
         scale = 0.1,
     }
 
