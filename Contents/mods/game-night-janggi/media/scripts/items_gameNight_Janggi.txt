@@ -7,7 +7,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red General,
-        Icon = OutOfPlayTextures/JanggiRedGeneral,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -17,7 +17,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue General,
-        Icon = OutOfPlayTextures/JanggiBlueGeneral,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -27,7 +27,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Horse,
-        Icon = OutOfPlayTextures/JanggiRedHorse,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -37,7 +37,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Horse,
-        Icon = OutOfPlayTextures/JanggiBlueHorse,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -47,7 +47,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Elephant,
-        Icon = OutOfPlayTextures/JanggiRedElephant,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -57,7 +57,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Elephant,
-        Icon = OutOfPlayTextures/JanggiBlueElephant,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -67,7 +67,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Chariot,
-        Icon = OutOfPlayTextures/JanggiRedChariot,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -77,7 +77,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Chariot,
-        Icon = OutOfPlayTextures/JanggiBlueChariot,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -87,7 +87,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Cannon,
-        Icon = OutOfPlayTextures/JanggiRedCannon,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -97,7 +97,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Cannon,
-        Icon = OutOfPlayTextures/JanggiBlueCannon,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -107,7 +107,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Soldier,
-        Icon = OutOfPlayTextures/JanggiRedSoldier,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -117,7 +117,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Soldier,
-        Icon = OutOfPlayTextures/JanggiBlueSoldier,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -127,7 +127,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Red Guard,
-        Icon = OutOfPlayTextures/JanggiRedGuard,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
@@ -137,7 +137,7 @@ module Base
         Weight = 0.01, 
         Type = Normal,
         DisplayName = Blue Guard,
-        Icon = OutOfPlayTextures/JanggiBlueGuard,
+        Icon = OutOfPlayTextures/Janggi,
         WorldStaticModel = Janggi_Piece,
     }
 
